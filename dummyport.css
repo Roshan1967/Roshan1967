@@ -1,0 +1,36 @@
+.navbar{
+    width: auto;
+    height: 80px;
+    background-color:black;
+    color: blue;
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.strip{
+    background-color: grey;
+    width: auto;
+    height: 40px;
+    display:flex;
+    justify-content: space-around;
+    color: antiquewhite;
+    
+}
+.box{
+    width: 1200px;
+    height: 150px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;  
+}
+img{
+   width:40px;
+   height: 20px;
+   
+}
